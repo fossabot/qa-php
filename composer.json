@@ -1,0 +1,13 @@
+{
+    "name": "meterianphp/sample-failing",
+    "description": "OpenCFP is a PHP-based conference talk submission system.",
+    "license": "MIT",
+    "require": {
+        "guzzlehttp/guzzle": "6.1",
+        "michelf/php-markdown": "1.7",
+        "monolog/monolog": "1.10",
+        "h5p/h5p-core":  "~1.0"
+    },
+    "require-dev": {
+    }
+}
